@@ -1,1 +1,3 @@
-Vamos aprender um pouco mais sobre o Git
+Vamos aprender um pouco mais sobre o Git.
+Modifiquei abrindo pelo finder.
+Modifiquei abrindo pelo terminal.
