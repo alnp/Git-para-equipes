@@ -1,3 +1,4 @@
 Vamos aprender um pouco mais sobre o Git.
 Modifiquei abrindo pelo finder.
 Modifiquei abrindo pelo terminal.
+Mais uma modificação para verificar o estado do arquivo.
